@@ -1,0 +1,6 @@
+# Referenced at /Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:162
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:162
+-keep class io.dcloud.application.DCloudApplication { <init>(); }
+# Referenced at /Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:304
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(); }

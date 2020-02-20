@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "iconfont";
+	src: url('./static/style/iconfont/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.aca-shouji:before {
+  content: "\e600";
+}
+
+.aca-leimupinleifenleileibie:before {
+  content: "\e7f9";
+}
+
+.aca-user:before {
+  content: "\e607";
+}
+
+.aca-youjiantou:before {
+  content: "\e644";
+}
+
+.aca-mima:before {
+  content: "\e60f";
+}
+
+.aca-fenxiang-1:before {
+  content: "\e60b";
+}
+
+.aca-fanhui1:before {
+  content: "\e67e";
+}
+
+.aca-xiala:before {
+  content: "\e615";
+}
+
+.aca-securityCode-b:before {
+  content: "\e60d";
+}
+
+.aca-xiaoxi:before {
+  content: "\e618";
+}
+
+.aca-shop:before {
+  content: "\e619";
+}
+
+.aca-sousuo:before {
+  content: "\e6aa";
+}
+
+.aca-dianzan:before {
+  content: "\e702";
+}
