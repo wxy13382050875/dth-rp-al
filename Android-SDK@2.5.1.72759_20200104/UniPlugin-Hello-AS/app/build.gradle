@@ -29,13 +29,6 @@ android {
         ignoreAssetsPattern "!.svn:!.git:.*:!CVS:!thumbs.db:!picasa.ini:!*.scc:*~"
     }
     /*代码结束*/
-//
-    packagingOptions {
-        exclude 'lib/armeabi-v7a/libc++_shared.so'
-        exclude 'lib/arm64-v8a/libc++_shared.so'
-    }
-//
-//    lintOptions { abortOnError false }
 }
 repositories {
     flatDir {
@@ -60,7 +53,4 @@ dependencies {
 
     // 添加uni-app插件
     implementation project(':uniplugin_richalert')
-
-    // 添加uni-app插件
-    implementation project(':dth-rp-al')
 }

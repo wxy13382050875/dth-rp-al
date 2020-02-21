@@ -3,31 +3,31 @@
 3    package="com.HBuilder.integrate.test" >
 4
 5    <uses-sdk
-5-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:5:5-74
+5-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:5:5-74
 6        android:minSdkVersion="19"
-6-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:5:15-41
+6-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:5:15-41
 7        android:targetSdkVersion="28" />
-7-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:5:42-71
+7-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:11:5-15:72
+9-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:11:5-15:72
 10        android:name="com.android.test.runner.MultiDexTestRunner"
-10-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:11:22-79
+10-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:11:22-79
 11        android:functionalTest="false"
-11-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:14:22-52
+11-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:13:22-53
+12-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:13:22-53
 13        android:label="Tests for com.HBuilder.integrate"
-13-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:15:22-70
+13-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:15:22-70
 14        android:targetPackage="com.HBuilder.integrate" />
-14-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:12:22-68
+14-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:12:22-68
 15
 16    <application android:debuggable="true" >
-16-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:7:5-9:19
-16-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:7:18-43
+16-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:7:5-9:19
+16-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:7:18-43
 17        <uses-library android:name="android.test.runner" />
-17-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:8:9-60
-17-->/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger8559558381224201050.xml:8:23-57
+17-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:8:9-60
+17-->/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger7871691155764277601.xml:8:23-57
 18    </application>
 19
 20</manifest>

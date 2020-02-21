@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bencmai/Desktop/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/Users/bencmai/Desktop/dth-rp-al/Android-SDK@2.5.1.72759_20200104/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/Users/bencmai/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/res/values-hu/values-hu.xml",

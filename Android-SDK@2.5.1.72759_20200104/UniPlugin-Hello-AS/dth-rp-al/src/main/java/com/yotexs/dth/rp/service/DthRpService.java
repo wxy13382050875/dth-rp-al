@@ -12,14 +12,16 @@ import com.taobao.weex.bridge.JSCallback;
  */
 public class DthRpService extends WXSDKEngine.DestroyableModule {
 
-    public String verifyToken = "verifyToken";
+
+    public String VERIFYTOKEN = "verifyToken";
 
     @JSMethod(uiThread = true)
     public  void show(JSONObject options, final JSCallback jsCallback){
-        String content = options.getString(verifyToken);
+        String verifyToken = options.getString(VERIFYTOKEN);
         RPSDK.start(verifyToken, mWXSDKInstance.getContext(), new RPSDK.RPCompletedListener(){
             @Override
             public void onAuditResult(RPSDK.AUDIT audit, String s) {
+
                 JSONObject result = new JSONObject();
                 result.put("audit", audit);
                 result.put("s", s);

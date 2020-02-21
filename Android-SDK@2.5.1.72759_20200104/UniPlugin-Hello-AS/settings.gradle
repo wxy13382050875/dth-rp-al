@@ -1,1 +1,1 @@
-include ':app', ':uniplugin_richalert', ':my_test', ':dth-rp-al'
+include ':app', ':uniplugin_richalert', ':dth-rp-al'
