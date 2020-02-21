@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"app-register.",[1],"data-v-ebfcd312 { padding: ",[0,60]," ",[0,60]," 0; }\n.",[1],"app-register .",[1],"se-code.",[1],"data-v-ebfcd312 { margin: 0 ",[0,24],"; font-size: ",[0,30],"; color: #e40011; }\n.",[1],"app-register .",[1],"arrow-right.",[1],"data-v-ebfcd312 { width: ",[0,80],"; text-align: center; color: #A9A8A8; }\n",],undefined,{path:"./pages/common/forget.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/common/forget.wxml') } }));
