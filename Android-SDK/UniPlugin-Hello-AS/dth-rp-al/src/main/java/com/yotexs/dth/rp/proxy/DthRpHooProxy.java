@@ -4,6 +4,8 @@ import android.app.Application;
 
 import com.alibaba.security.rp.RPSDK;
 import com.taobao.weex.WXSDKEngine;
+import com.taobao.weex.common.WXException;
+import com.yotexs.dth.rp.service.DthRpService;
 
 import io.dcloud.weex.AppHookProxy;
 
@@ -14,6 +16,14 @@ public class DthRpHooProxy extends WXSDKEngine.DestroyableModule implements AppH
 
     @Override
     public void onCreate(Application application) {
+
+//        try{
+//            WXSDKEngine.registerModule("Dcloud-RichAlert", DthRpService.class);
+//            RPSDK.initialize(mWXSDKInstance.getContext());
+//        }catch (WXException e){
+//            e.printStackTrace();
+//        }
+
         RPSDK.initialize(mWXSDKInstance.getContext());
     }
 

@@ -5,23 +5,13 @@
       "plugins": [
         {
           "type": "module",
-          "name": "DCloud-RichAlert",
-          "class": "uni.dcloud.io.uniplugin_richalert.RichAlertWXModule"
-        },
-        {
-          "type": "module",
-          "name": "aklili-test",
-          "class": "com.example.my_test.TestWxModule"
-        },
-        {
-          "type": "module",
           "name": "DTH-RP-ALY",
-          "class": "com.yotexs.dth.rp.service."
+          "class": "com.yotexs.dth.rp.service.DthRpService"
         }
       ]
     },
     {
-      "hooksClass": "uni.dcloud.io.uniplugin_stepcounter.StepCounterHookProxy"
+      "hooksClass": "com.yotexs.dth.rp.service.proxy.DthRpHooProxy"
     }
   ]
 }

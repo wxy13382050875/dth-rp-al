@@ -17,6 +17,7 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/bencmai/.gradle/cac
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/7df26908078c74ff4eeaf46e7b6b476c/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/ceb81553a8d4d1147c847656f2ca2121/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [:uniplugin_richalert] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/uniplugin_richalert/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:dth-rp-al] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/dth-rp-al/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/e10b7c26d815620a6c4def68284f14d9/jetified-fresco-1.13.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:animated-gif:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/82a02990ec45335ba49262469ab2530b/animated-gif-1.13.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/d66c98c96b5a10ba7d95e3f12a033748/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
@@ -56,6 +57,10 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] /Users/bencmai/.g
 MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/357284bcaccb3faed44ae7437483453c/jetified-imagepipeline-base-1.13.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/5b94b4f65fecec29f144ace35d276fe1/jetified-fbcore-1.13.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/0eb4451cb27d3ba611c2940c8db8fc89/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:2:1-36:12
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:2:1-22:12
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:2:1-19:12
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:2:1-37:12
 INJECTED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
 INJECTED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
 INJECTED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-87:12
@@ -93,6 +98,8 @@ uses-permission#android.permission.CAMERA
 ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:13:5-65
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:11:5-65
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:11:5-65
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:11:5-65
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:11:5-65
 	android:name
 		ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:13:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -105,18 +112,28 @@ MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms
 MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:14:5-81
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:16:5-81
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:16:5-81
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:16:5-81
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:16:5-81
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:14:5-81
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:14:5-81
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:12:5-81
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:14:22-78
 uses-feature#android.hardware.camera
 ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:16:5-60
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:13:5-60
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:13:5-60
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:13:5-60
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:13:5-60
 	android:name
 		ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:16:19-57
 uses-feature#android.hardware.camera.autofocus
 ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:17:5-70
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:14:5-70
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:14:5-70
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:14:5-70
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:14:5-70
 	android:name
 		ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:17:19-67
 uses-permission#android.permission.VIBRATE
@@ -151,6 +168,14 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bencmai/.gradle/
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/954cc12ba3f735b8a3410ebcbaf5a8dc/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/0eb4451cb27d3ba611c2940c8db8fc89/soloader-0.6.0/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/0eb4451cb27d3ba611c2940c8db8fc89/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:19:5-34:19
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:19:5-34:19
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:17:5-20:19
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:17:5-20:19
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:14:5-17:19
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:14:5-17:19
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:22:5-35:19
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:22:5-35:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:supportsRtl
@@ -168,6 +193,9 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches
 		REJECTED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:23:9-36
 		REJECTED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:18:9-35
 		REJECTED from [SecurityBodySDK-external-release-5.4.109-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:15:9-36
+		REJECTED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:18:9-35
+		REJECTED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:15:9-36
+		REJECTED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:23:9-36
 	tools:replace
 		ADDED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:29:9-44
 	android:usesCleartextTraffic
@@ -276,6 +304,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bencmai/.gradle/ca
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/ceb81553a8d4d1147c847656f2ca2121/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [:uniplugin_richalert] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/uniplugin_richalert/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:uniplugin_richalert] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/uniplugin_richalert/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:dth-rp-al] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/dth-rp-al/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:dth-rp-al] /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/dth-rp-al/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/e10b7c26d815620a6c4def68284f14d9/jetified-fresco-1.13.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/e10b7c26d815620a6c4def68284f14d9/jetified-fresco-1.13.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:animated-gif:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/82a02990ec45335ba49262469ab2530b/animated-gif-1.13.0/AndroidManifest.xml:5:5-7:41
@@ -354,6 +384,14 @@ MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/bencmai/.gradle/caches/tr
 MERGED from [com.facebook.fresco:fbcore:1.13.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/5b94b4f65fecec29f144ace35d276fe1/jetified-fbcore-1.13.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/0eb4451cb27d3ba611c2940c8db8fc89/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/0eb4451cb27d3ba611c2940c8db8fc89/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:7:5-9:41
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:7:5-9:41
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:7:5-9:41
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:7:5-9:41
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:7:5-9:41
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 INJECTED from /Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -368,6 +406,10 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:11:5-80
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:17:5-80
 MERGED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:17:5-80
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:17:5-80
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:17:5-80
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:11:5-80
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:11:5-80
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:11:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -380,22 +422,36 @@ MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms
 MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:12:5-79
 MERGED from [SecurityBodySDK-external-release-5.4.109-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:12:5-79
 MERGED from [SecurityBodySDK-external-release-5.4.109-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:12:5-79
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:12:5-79
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:12:5-79
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:12:5-79
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:12:5-79
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:13:5-79
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:13:5-79
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:14:5-76
 MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:13:5-76
 MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:13:5-76
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:13:5-76
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:13:5-76
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:14:5-76
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:14:5-76
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:14:22-73
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:15:5-75
 MERGED from [miit_mdid_1.0.10.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/ea943b93e768956214db07b9c5dc84da/jetified-miit_mdid_1.0.10/AndroidManifest.xml:5:5-75
 MERGED from [miit_mdid_1.0.10.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/ea943b93e768956214db07b9c5dc84da/jetified-miit_mdid_1.0.10/AndroidManifest.xml:5:5-75
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:15:5-75
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:15:5-75
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:15:22-72
 uses-permission#android.permission.WRITE_SETTINGS
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:16:5-73
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:16:5-73
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:16:5-73
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:16:22-70
 uses-permission#android.permission.INTERNET
@@ -408,18 +464,30 @@ MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms
 MERGED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:11:5-67
 MERGED from [SecurityBodySDK-external-release-5.4.109-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:11:5-67
 MERGED from [SecurityBodySDK-external-release-5.4.109-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:11:5-67
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:11:5-67
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:11:5-67
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:11:5-67
+MERGED from [:SecurityBodySDK-external-release-5.4.109-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f53c683954a257d037832318bb0b0fcb/SecurityBodySDK-external-release-5.4.109-preInstall/AndroidManifest.xml:11:5-67
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:17:5-67
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:17:5-67
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:17:22-64
 uses-permission#android.permission.BLUETOOTH
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:18:5-68
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:18:5-68
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:18:5-68
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:18:22-65
 uses-permission#android.permission.READ_SETTINGS
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:19:5-72
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:19:5-72
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:19:5-72
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:19:22-69
 uses-permission#android.permission.GET_TASKS
 ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:20:5-68
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:20:5-68
+MERGED from [:SecurityGuardSDK-external-release-5.4.187-preInstall:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:20:5-68
 	android:name
 		ADDED from [SecurityGuardSDK-external-release-5.4.187-preInstall.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/2324b673db08bcb2c810e5e601ec2cac/SecurityGuardSDK-external-release-5.4.187-preInstall/AndroidManifest.xml:20:22-65
 uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
@@ -648,22 +716,30 @@ ADDED from [miit_mdid_1.0.10.aar] /Users/bencmai/.gradle/caches/transforms-2/fil
 		ADDED from [miit_mdid_1.0.10.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/ea943b93e768956214db07b9c5dc84da/jetified-miit_mdid_1.0.10/AndroidManifest.xml:8:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
 ADDED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:15:5-76
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:15:5-76
+MERGED from [:oss-android-sdk-2.9.2:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:15:5-76
 	android:name
 		ADDED from [oss-android-sdk-2.9.2.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/3bba832d14446db47d336df41aa567ac/oss-android-sdk-2.9.2/AndroidManifest.xml:15:22-73
 activity#com.alibaba.security.rp.activity.RPTakePhotoActivity
 ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:20:9-22:52
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:20:9-22:52
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:20:9-22:52
 	android:screenOrientation
 		ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:22:13-49
 	android:name
 		ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:21:13-80
 activity#com.alibaba.security.rp.activity.RPH5Activity
 ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:23:9-25:52
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:23:9-25:52
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:23:9-25:52
 	android:screenOrientation
 		ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:25:13-49
 	android:name
 		ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:24:13-73
 activity#com.alibaba.security.biometrics.activity.ALBiometricsActivity
 ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:30:9-33:86
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:30:9-33:86
+MERGED from [:rpsdk-3.3.0.1:] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:30:9-33:86
 	android:hardwareAccelerated
 		ADDED from [rpsdk-3.3.0.1.aar] /Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/AndroidManifest.xml:32:13-47
 	android:theme
