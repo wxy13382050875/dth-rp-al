@@ -16,10 +16,10 @@ public class DthRpHooProxy extends WXSDKEngine.DestroyableModule implements AppH
 
     @Override
     public void onCreate(Application application) {
-
+        System.out.println("println输入日志信息");
         try{
             WXSDKEngine.registerModule("DTH-RP-ALY", DthRpService.class);
-            RPSDK.initialize(mWXSDKInstance.getContext());
+
         }catch (WXException e){
             e.printStackTrace();
         }

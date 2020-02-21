@@ -1,6 +1,8 @@
 package com.yotexs.dth.rp.service;
 
 
+import android.widget.Toast;
+
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.security.rp.RPSDK;
 import com.taobao.weex.WXSDKEngine;
@@ -17,12 +19,14 @@ public class DthRpService extends WXSDKEngine.DestroyableModule {
 
     @JSMethod(uiThread = true)
     public  void show(JSONObject options, final JSCallback jsCallback){
-        String verifyToken = options.getString(VERIFYTOKEN);
+        RPSDK.initialize(mWXSDKInstance.getContext());
 
+        String verifyToken = options.getString(VERIFYTOKEN);
+        Toast.makeText(mWXSDKInstance.getContext(), "println输入日志信息------" + verifyToken, Toast.LENGTH_SHORT).show();
         RPSDK.start(verifyToken, mWXSDKInstance.getContext(), new RPSDK.RPCompletedListener(){
             @Override
             public void onAuditResult(RPSDK.AUDIT audit, String s) {
-
+                Toast.makeText(mWXSDKInstance.getContext(), audit + "", Toast.LENGTH_SHORT).show();
                 JSONObject result = new JSONObject();
                 result.put("audit", audit);
                 result.put("s", s);
