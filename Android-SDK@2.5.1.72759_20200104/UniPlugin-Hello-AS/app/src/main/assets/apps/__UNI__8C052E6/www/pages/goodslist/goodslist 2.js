@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"index-header{ margin-top: ",[0,80],"; }\n.",[1],"bht-layout{ margin-top: ",[0,80],"; }\n",],undefined,{path:"./pages/goodslist/goodslist.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/goodslist/goodslist.wxml') } }));
