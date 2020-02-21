@@ -18,6 +18,7 @@ public class DthRpService extends WXSDKEngine.DestroyableModule {
     @JSMethod(uiThread = true)
     public  void show(JSONObject options, final JSCallback jsCallback){
         String verifyToken = options.getString(VERIFYTOKEN);
+
         RPSDK.start(verifyToken, mWXSDKInstance.getContext(), new RPSDK.RPCompletedListener(){
             @Override
             public void onAuditResult(RPSDK.AUDIT audit, String s) {

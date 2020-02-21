@@ -1,17 +1,8 @@
 {
   "nativePlugins": [
+
     {
-      "hooksClass": "",
-      "plugins": [
-        {
-          "type": "module",
-          "name": "DTH-RP-ALY",
-          "class": "com.yotexs.dth.rp.service.DthRpService"
-        }
-      ]
-    },
-    {
-      "hooksClass": "com.yotexs.dth.rp.service.proxy.DthRpHooProxy"
+      "hooksClass": "com.yotexs.dth.rp.proxy.DthRpHooProxy"
     }
   ]
 }

@@ -3988,6 +3988,7 @@ public final class R {
     public static final int tooltip_frame_dark=0x7f06010e;
     public static final int tooltip_frame_light=0x7f06010f;
     public static final int weex_error=0x7f060110;
+    public static final int yw_1222_0670=0x7f060111;
   }
   public static final class id {
     public static final int ALT=0x7f070000;

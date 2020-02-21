@@ -1067,6 +1067,7 @@ int drawable toast_bg 0x7f06010d
 int drawable tooltip_frame_dark 0x7f06010e
 int drawable tooltip_frame_light 0x7f06010f
 int drawable weex_error 0x7f060110
+int drawable yw_1222_0670 0x7f060111
 int id ALT 0x7f070000
 int id CTRL 0x7f070001
 int id FUNCTION 0x7f070002

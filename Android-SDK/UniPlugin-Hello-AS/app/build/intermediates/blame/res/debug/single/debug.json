@@ -116,6 +116,10 @@
         "source": "/Users/bencmai/.gradle/caches/transforms-2/files-2.1/7df26908078c74ff4eeaf46e7b6b476c/appcompat-1.0.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable_yw_1222_0670.jpg.flat",
+        "source": "/Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/dth-rp-al/build/intermediates/packaged_res/debug/drawable/yw_1222_0670.jpg"
+    },
+    {
         "merged": "/Users/bencmai/Desktop/dth-rp-al/Android-SDK/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_face_guide_blink10.png.flat",
         "source": "/Users/bencmai/.gradle/caches/transforms-2/files-2.1/f4a3ba2067eb00ca35ab7d1736f510f0/jetified-rpsdk-3.3.0.1/res/drawable-xhdpi-v4/face_guide_blink10.png"
     },
